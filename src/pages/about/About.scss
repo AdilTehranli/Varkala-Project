@@ -1,0 +1,52 @@
+.about{
+    margin-top: 85px;
+    margin-left: 147px;
+    .row{
+gap: 40px;
+        .about__border{
+            width: 5%;
+            margin-top: 0.5rem;
+            border-top: solid 1px #495057;
+        }
+    .about__title{
+        .text-primary{
+            color: #bcac76 !important ;
+            letter-spacing: 5px;
+        }
+        .display-3{
+            font-weight: 700 !important;
+        }
+        .text-lg{
+         color: #868e96 !important;
+         font-size: 1.25rem;
+        }
+    }
+}
+    .about__under{
+        margin-top: 113px;
+    }
+}
+.about__history{
+    margin-left: 100px;
+    margin-top: 65px;
+    .about__history__img{
+     .img-fluid{
+        width: 350px;
+     }   
+    }
+    .about__history__title{
+        margin-top: 187px;
+        .text-uppercase{
+            color: #868e96 !important;
+            font-weight: 700;
+            letter-spacing: 5px;
+            font-size: 20px;
+        }
+        .mb-4{
+            font-weight: 700;
+        }
+        .text-muted{
+            color: #868e96 !important;
+        }
+    }
+}
